@@ -2,7 +2,7 @@ const app = require('./src/app');
 const figlet = require('figlet');
 const info = require('./src/utils/info');
 
-figlet.text('Neobot', {
+figlet.text('Rilbot', {
     font: 'ANSI Shadow',
 }, function(err, data) {
     if (err) {
