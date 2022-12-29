@@ -4,7 +4,7 @@ const info = require('./utils/info');
 
 const help = `
 ==================================
-            NEOBOT           
+            RIL BOT           
 ==================================
 
 ${info}
